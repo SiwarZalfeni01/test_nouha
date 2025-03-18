@@ -1,0 +1,36 @@
+commit fa095c27be87630ceeedeaaca95ebe71ca07d901
+Merge: f31cc2e 1f784fa
+Author: siwar zalfeni <siwarzelfanitn@gmail.com>
+Date:   Tue Mar 18 03:32:17 2025 +0100
+
+    resolve conflict
+
+commit 1f784fad692ee6b9828f19a2b6168e41edd4dae3
+Author: siwar zalfeni <siwarzelfanitn@gmail.com>
+Date:   Tue Mar 18 03:29:30 2025 +0100
+
+    ajout mn hnee
+
+commit f31cc2e808b4886778a07b25fcd5cbccb8d45eef
+Author: siwar zalfeni <siwarzelfanitn@gmail.com>
+Date:   Tue Mar 18 03:27:19 2025 +0100
+
+    ajout de l'affichage
+
+commit 1e956359d6c07c1b3de191f6a93192475512aeed
+Author: siwar zalfeni <siwarzelfanitn@gmail.com>
+Date:   Tue Mar 18 03:22:57 2025 +0100
+
+    ajout app.py
+
+commit e1f48860d6a62989de348e996eb82093ceba1da7
+Author: siwar zalfeni <siwarzelfanitn@gmail.com>
+Date:   Tue Mar 18 03:19:45 2025 +0100
+
+     maj readme
+
+commit 362e5854d8c96dc0441d864b615bc79201e9e3f4
+Author: SiwarZalfeni01 <160877944+SiwarZalfeni01@users.noreply.github.com>
+Date:   Tue Mar 18 03:15:34 2025 +0100
+
+    Initial commit
